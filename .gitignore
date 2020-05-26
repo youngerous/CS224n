@@ -2,6 +2,8 @@ saved_*.npy
 saved_*.pickle
 
 a2/utils/datasets
+a3/results/
+
 .vscode/
 # Created by https://www.gitignore.io/api/macos,python,windows,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=macos,python,windows,jupyternotebooks
